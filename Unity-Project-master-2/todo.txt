@@ -1,0 +1,5 @@
+1. hit feedback
+
+2. Lives / Score
+
+3. Making it look nicer.
